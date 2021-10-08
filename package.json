@@ -1,0 +1,26 @@
+{
+  "name": "react-jsconfig",
+  "version": "1.0.0",
+  "description": "Creates a jsconfig.json file for absolute import paths with react",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshirbadGudu/react-jsconfig.git"
+  },
+  "keywords": [
+    "jsconfig.json",
+    "react",
+    "react-jsconfig",
+    "js"
+  ],
+  "author": "Ashirbad Panigrahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshirbadGudu/react-jsconfig/issues"
+  },
+  "homepage": "https://github.com/AshirbadGudu/react-jsconfig#readme"
+}
